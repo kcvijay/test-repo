@@ -1,3 +1,4 @@
 Hello,
 This is a test folder for local git initiation to github.
 There is more testing to come.
+git is a really cool thing to use, especially for the coding purpose having multiple users at a time.
